@@ -4,7 +4,7 @@ bietet Produktionsmittel und moderne
 industrielle Produktionsverfahren zur
 Herstellung von Einzelstücken. Im
 FabLab der DHBW Heidenheim werden
-Techniken we 3D-Druck, Laser-Cutter,
+Techniken wie 3D-Druck, Laser-Cutter,
 CNC-Maschinen und eine Elektronik-
 Werkstatt für Studierende und anderen zur Verfügung gestellt.
 Link:https://www.heidenheim.dhbw.de/forschung-transfer/labore/fablab
