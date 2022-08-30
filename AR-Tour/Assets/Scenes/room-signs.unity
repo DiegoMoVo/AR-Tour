@@ -620,5 +620,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Content-Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 2509524362415595804, guid: 6620a2356531c4d22adebe08bfe07e5e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: -0.0018067
+      objectReference: {fileID: 0}
+    - target: {fileID: 2509524362415595804, guid: 6620a2356531c4d22adebe08bfe07e5e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2509524362415595804, guid: 6620a2356531c4d22adebe08bfe07e5e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -514.67737
+      objectReference: {fileID: 0}
+    - target: {fileID: 2509524362415595804, guid: 6620a2356531c4d22adebe08bfe07e5e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -254.999
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6620a2356531c4d22adebe08bfe07e5e, type: 3}
