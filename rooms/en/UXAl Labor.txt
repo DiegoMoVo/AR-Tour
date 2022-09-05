@@ -1,5 +1,0 @@
-UX/Al Lab
-In the User Experience Lab, new learning scenarios in the context of Industry 4.0 are investigated as well as research projects in areas such as digital learning and automotive software are carried out. 
-The best-known application of eye tracking software comes from the field of marketing. 
-Another application is the investigation of user-friendly, experience-oriented design of user interfaces in the context of human-machine interaction.
-link: https://www.heidenheim.dhbw.de/forschung-transfer/labore/user-experience-labor
