@@ -1,4 +1,3 @@
-
 729 Studienberatung
 Die Studienberatung hilft allen, die sich
 allgemein über ein duals Studium an der
@@ -10,4 +9,5 @@ kann telefonisch, per E-Mail oder
 persönlich (wen möglich mit Voranmeldung) erfolgen.
 Telefon:+49.7321.2722.138
 E-Mail: studienberatung@dhbw-heidenheim.de
-Link:https://www.heidenheim.dhbw.de/studium-lehre/studienberatung
+Link:https://www.heidenheim.dhbw.de/
+studium-lehre/studienberatung

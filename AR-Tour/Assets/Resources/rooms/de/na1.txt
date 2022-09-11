@@ -1,8 +1,12 @@
-kein Schild 
 Ab ins Ausland
-Das International Office der DHBW Heidenheim ist
-mit über 50 Partnerhochschulen auf der ganzen Welt
-verknüpft und unterstützt Studierende bei ihrem Auslandssemester.
-Außerdem bietet das International Office Sprachkurse und Workshop zur interkulturellen Kompetenz an.
-Link:
-https://www.heidenheim.dhbw.de/service-einrichtungen/international-office
+Das International Office der 
+DHBW Heidenheim ist mit über 
+50 Partnerhochschulen auf der 
+ganzen Welt verknüpft und 
+unterstützt Studierende bei 
+ihrem Auslandssemester.
+Außerdem bietet das 
+International Office Sprachkurse und 
+Workshop zur interkulturellen Kompetenz an.
+Link: https://www.heidenheim.dhbw.de/
+service-einrichtungen/international-office

@@ -1,8 +1,15 @@
 Student Counseling
-The student counseling service helps anyone who is interested in a dual study program at the
-DHBW Heidenheim or needs information about a specific course. 
-It also advices students in choosing the right course of study. The counseling can be by telephone, e-mail or
-in person (if possible with an appointment).
+The student counseling service helps 
+anyone who is interested in a dual 
+study program at the DHBW Heidenheim 
+or needs information about a specific 
+course. It also advices students in 
+choosing the right course of study. 
+The counseling can be by telephone, 
+e-mail or in person (if possible 
+with an appointment).
 Telephone:+49.7321.2722.138
-E-Mail: studienberatung@dhbw-heidenheim.de
-Link:https://www.heidenheim.dhbw.de/studium-lehre/studienberatung
+E-Mail: 
+studienberatung@dhbw-heidenheim.de
+Link:https://www.heidenheim.dhbw.de/
+studium-lehre/studienberatung

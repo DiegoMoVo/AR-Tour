@@ -8,4 +8,6 @@ Gebäude Wilhelmstraße ist zusätzlich
 eine Außenstelle der Cafeteria. Beide
 werden vom Studierendenwerk Ulm
 betrieben. Den Speiseplan git's hier:
-https://studierendenwerk-ulm.de/essen-trinken/speiseplaene/#speiseplan-dhbw-heidenheim
+https://studierendenwerk-ulm.de/
+essen-trinken/speiseplaene/
+#speiseplan-dhbw-heidenheim

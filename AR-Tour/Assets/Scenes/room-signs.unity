@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -450,7 +450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_AnchorMax.x
@@ -528,6 +528,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7070026921606703567, guid: fbf9878f61208498c919539647e5675e, type: 3}
+      propertyPath: filename
+      value: 
+      objectReference: {fileID: 4900000, guid: 8530fe296bf88db449f5d616940bd464, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbf9878f61208498c919539647e5675e, type: 3}
 --- !u!224 &585790026 stripped
@@ -650,7 +654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_AnchorMax.x
@@ -728,6 +732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7070026921606703567, guid: fbf9878f61208498c919539647e5675e, type: 3}
+      propertyPath: filename
+      value: 
+      objectReference: {fileID: 4900000, guid: 55aacbb3991ec3a4aa75c0c0e64550df, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbf9878f61208498c919539647e5675e, type: 3}
 --- !u!224 &1248251979 stripped
@@ -760,7 +768,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_AnchorMax.x
@@ -838,6 +846,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7070026921606703567, guid: fbf9878f61208498c919539647e5675e, type: 3}
+      propertyPath: filename
+      value: 
+      objectReference: {fileID: 4900000, guid: 12cb22823fa96d942ae64d4488f2c3ad, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbf9878f61208498c919539647e5675e, type: 3}
 --- !u!224 &1298097038 stripped
@@ -980,7 +992,7 @@ GameObject:
   - component: {fileID: 1746074493}
   - component: {fileID: 1746074492}
   - component: {fileID: 1746074491}
-  - component: {fileID: 1746074490}
+  - component: {fileID: 1746074494}
   m_Layer: 0
   m_Name: 082
   m_TagString: Untagged
@@ -988,25 +1000,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1746074490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1746074489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 1746074492}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: img-082
-  mDatasetName: Vuforia/ar-tour.xml
-  mCastedBehaviour: {fileID: 1746074492}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &1746074491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1076,7 +1069,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1746074490}
+  mPreview: {fileID: 1746074494}
 --- !u!4 &1746074493
 Transform:
   m_ObjectHideFlags: 0
@@ -1093,6 +1086,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1746074494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1746074489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1746074492}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: img-082
+  mDatasetName: Vuforia/ar-tour.xml
+  mCastedBehaviour: {fileID: 1746074492}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1936204027
 GameObject:
   m_ObjectHideFlags: 0
@@ -1104,7 +1116,7 @@ GameObject:
   - component: {fileID: 1936204031}
   - component: {fileID: 1936204030}
   - component: {fileID: 1936204029}
-  - component: {fileID: 1936204028}
+  - component: {fileID: 1936204032}
   m_Layer: 0
   m_Name: 601
   m_TagString: Untagged
@@ -1112,25 +1124,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1936204028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936204027}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 1936204030}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: img-601
-  mDatasetName: Vuforia/ar-tour.xml
-  mCastedBehaviour: {fileID: 1936204030}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &1936204029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1200,7 +1193,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1936204028}
+  mPreview: {fileID: 1936204032}
 --- !u!4 &1936204031
 Transform:
   m_ObjectHideFlags: 0
@@ -1217,6 +1210,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1936204032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936204027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1936204030}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: img-601
+  mDatasetName: Vuforia/ar-tour.xml
+  mCastedBehaviour: {fileID: 1936204030}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!224 &2114315710 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
@@ -1255,7 +1267,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5794865767092538921, guid: fbf9878f61208498c919539647e5675e, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1333,5 +1345,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7070026921606703567, guid: fbf9878f61208498c919539647e5675e, type: 3}
+      propertyPath: filename
+      value: 
+      objectReference: {fileID: 4900000, guid: 9235b0e43745f2d43bda310cfe7857ca, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbf9878f61208498c919539647e5675e, type: 3}

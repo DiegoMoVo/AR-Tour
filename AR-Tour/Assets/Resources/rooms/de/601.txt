@@ -6,5 +6,7 @@ Herstellung von Einzelstücken. Im
 FabLab der DHBW Heidenheim werden
 Techniken wie 3D-Druck, Laser-Cutter,
 CNC-Maschinen und eine Elektronik-
-Werkstatt für Studierende und anderen zur Verfügung gestellt.
-Link:https://www.heidenheim.dhbw.de/forschung-transfer/labore/fablab
+Werkstatt für Studierende und anderen 
+zur Verfügung gestellt.
+Link:https://www.heidenheim.dhbw.de/
+forschung-transfer/labore/fablab

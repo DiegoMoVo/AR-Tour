@@ -5,9 +5,12 @@ untersucht so-wie Forschungsprojekte in
 Bereichen wie Digitales Lernen und
 Automotive Software durchgeführt. Die
 bekannteste Anwendung von
-Eyetracking-Software kommt aus dem Bereich des Marketings. Eine weitere
+Eyetracking-Software kommt aus dem 
+Bereich des Marketings. Eine weitere
 Anwendung ist die Untersuchung der
-benutzerfreundlichen, erlebnisorientierten Gestaltung von
-Benutzeroberflächen im Kontext von
-Mensch-Maschine-Interaktion.
-link: https://www.heidenheim.dhbw.de/forschung-transfer/labore/user-experience-labor
+benutzerfreundlichen, erlebnisorientierten 
+Gestaltung von Benutzeroberflächen im 
+Kontext von Mensch-Maschine-Interaktion.
+link: https://www.heidenheim.dhbw.de/
+forschung-transfer/labore/
+user-experience-labor
