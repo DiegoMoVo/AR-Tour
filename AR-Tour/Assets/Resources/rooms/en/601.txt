@@ -2,9 +2,9 @@ A FabLab is an open workshop and
 offers production equipment and modern
 industrial production processes for the
 production of individual pieces. At
-FabLab of the DHBW Heidenheim, techniques 
-such as 3D printing, laser cutters,
-CNC machines and an electronics
+FabLab of the DHBW Heidenheim, 
+techniques such as 3D printing, laser 
+cutters, CNC machines and an electronics
 workshop are made available to students 
 and others.
 Link:https://www.heidenheim.dhbw.de/
