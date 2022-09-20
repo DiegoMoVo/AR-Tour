@@ -1,0 +1,14 @@
+Printer instructions:
+
+1. Touch the screen
+2. Hold the card in front of the 
+   card reader for approx. 3 seconds
+3. Enter your PIN
+4. Click on "Check balance"
+5. Confirm the following message 
+   with "Yes"
+6. Now wait until the banknote slot 
+   lights up red and insert your 
+   banknote. The booking process 
+   takes a good half a minute
+7. Click on "Exit no receipt".
